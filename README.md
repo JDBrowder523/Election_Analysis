@@ -24,6 +24,9 @@
   - Winning vote count: 272,892
   - Winning percentage: 73.8%
 
+The election audit inforation was also printed directly to the Terminal when running the Python script.  The results are shown below:
+![This is an image](https://github.com/JDBrowder523/Election_Analysis/blob/main/Election_results.png)
+
 ## Election Audit Summary
   The Python sctipt used in this audit can be changed to be used in a variety of different elections to provide detailed information about voter turnout.  The sctipt can be modified to get further information including how many votes each candidate recieved in each specific county, allowing for use in smaller local elections.
   This script could be used in a federal election to show the number of votes a candidate gets in a specific state.
